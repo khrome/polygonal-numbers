@@ -1,6 +1,6 @@
 {
     "name": "polygonal-numbers", 
-    "version": "0.0.1", 
+    "version": "0.0.2", 
     "main": "polygonal-numbers.js",
     "type": "module", 
     "devDependencies": { 
